@@ -1,0 +1,51 @@
+Nominal Number,Nominal Name,GLASSHOUSE,Financial statement,Line item,Line item 2
+1000,Freehold property - valuation,650000.00,Balance sheet,Fixed assets,Tangible assets
+1010,Freehold property - accumulated depreciation,-52000.00,Balance sheet,Fixed assets,Tangible assets
+1100,Plant and machinery - cost,584217.40,Balance sheet,Fixed assets,Tangible assets
+1110,Plant and machinery - accumulated depreciation,-296450.12,Balance sheet,Fixed assets,Tangible assets
+1200,"Fixtures, fittings and IT - cost",96330.75,Balance sheet,Fixed assets,Tangible assets
+1210,"Fixtures, fittings and IT - accumulated depreciation",-61804.33,Balance sheet,Fixed assets,Tangible assets
+1300,Stock - raw materials,187615.29,Balance sheet,Current assets,Stocks
+1310,Stock - finished goods,124082.47,Balance sheet,Current assets,Stocks
+1400,Trade debtors,512456.18,Balance sheet,Current assets,Debtors
+1410,Prepayments and accrued income,46218.90,Balance sheet,Current assets,Debtors
+1420,Other debtors,8940.00,Balance sheet,Current assets,Debtors
+1500,Bank current account,158896.79,Balance sheet,Current assets,Cash at bank and in hand
+1510,Bank deposit account,80000.00,Balance sheet,Current assets,Cash at bank and in hand
+2000,Trade creditors,-398721.66,Balance sheet,Creditors: amounts falling due within one year,Creditors: amounts falling due within one year
+2100,Corporation tax,-104212.48,Balance sheet,Creditors: amounts falling due within one year,Creditors: amounts falling due within one year
+2110,VAT,-61204.85,Balance sheet,Creditors: amounts falling due within one year,Creditors: amounts falling due within one year
+2120,PAYE and NIC,-38915.27,Balance sheet,Creditors: amounts falling due within one year,Creditors: amounts falling due within one year
+2200,Accruals and deferred income,-72640.10,Balance sheet,Creditors: amounts falling due within one year,Creditors: amounts falling due within one year
+2300,Bank loan - due within one year,-60000.00,Balance sheet,Creditors: amounts falling due within one year,Creditors: amounts falling due within one year
+2400,Bank loan - due after more than one year,-240000.00,Balance sheet,Creditors: amounts falling due after more than one year,Creditors: amounts falling due after more than one year
+2500,Deferred tax provision,-42200.00,Balance sheet,Provisions for liabilities,Provisions for liabilities
+3000,Called up share capital,-120000.00,Balance sheet,Capital and reserves,Called up share capital
+3100,Share premium account,-45000.00,Balance sheet,Capital and reserves,Share premium account
+3200,Revaluation reserve - brought forward,-180000.00,Balance sheet,Capital and reserves,Revaluation reserve
+3210,Revaluation reserve - transfer of excess depreciation,6000.00,Balance sheet,Capital and reserves,Revaluation reserve
+3300,Profit and loss account - brought forward,-412356.18,Balance sheet,Capital and reserves,Profit and loss account
+3310,Profit and loss account - transfer from revaluation reserve,-6000.00,Balance sheet,Capital and reserves,Profit and loss account
+3400,Dividends paid,60000.00,Balance sheet,Capital and reserves,Profit and loss account
+4000,Sales - United Kingdom,-3512904.30,Profit and loss,Turnover,Turnover
+4010,Sales - Europe,-673838.25,Profit and loss,Turnover,Turnover
+4900,Government grant income,-12500.00,Profit and loss,Other operating income,Other operating income
+4910,Bank interest receivable,-3104.62,Profit and loss,Interest receivable and similar income,Interest receivable and similar income
+5000,Materials consumed,1742118.62,Profit and loss,Cost of sales,Cost of sales
+5010,Direct labour,812407.15,Profit and loss,Cost of sales,Cost of sales
+5020,Subcontract costs,196334.80,Profit and loss,Cost of sales,Cost of sales
+6000,Carriage outwards,58442.19,Profit and loss,Distribution costs,Distribution costs
+6010,Sales commission,31705.00,Profit and loss,Distribution costs,Distribution costs
+7000,Administrative salaries,498210.44,Profit and loss,Administrative expenses,Administrative expenses
+7010,Employer NIC and pension costs,92615.07,Profit and loss,Administrative expenses,Administrative expenses
+7100,Rent and rates,64800.00,Profit and loss,Administrative expenses,Administrative expenses
+7200,"Light, heat and power",48902.33,Profit and loss,Administrative expenses,Administrative expenses
+7300,Legal and professional fees,37450.00,Profit and loss,Administrative expenses,Administrative expenses
+7400,Depreciation,71240.00,Profit and loss,Administrative expenses,Administrative expenses
+7500,Motor and travel,29118.76,Profit and loss,Administrative expenses,Administrative expenses
+7600,Office and IT costs,41377.91,Profit and loss,Administrative expenses,Administrative expenses
+7700,Insurance,18960.40,Profit and loss,Administrative expenses,Administrative expenses
+7800,Bank charges,4512.88,Profit and loss,Administrative expenses,Administrative expenses
+8000,Bank loan interest,22486.35,Profit and loss,Interest payable and similar expenses,Interest payable and similar expenses
+9000,Corporation tax - current year,104212.48,Profit and loss,Tax on profit,Tax on profit
+9010,Deferred tax - origination of timing differences,4200.00,Profit and loss,Tax on profit,Tax on profit
