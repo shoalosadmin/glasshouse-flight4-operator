@@ -4,8 +4,8 @@
 **Application:** [Isolated native Apps Script candidate](https://script.google.com/macros/s/AKfycbzPKIlNdRi4dsT1OAMngcQE9WQHA9aAVQqZJ21GFlue/dev)  
 **Candidate release:** `OPERATION-ONE-LEDGER-4`  
 **Candidate SHA:** `05e17b73bc75b1a3c7c60e1626e40109afc5e1e3`  
-**Input pack:** [Flight 4 operator files](https://github.com/shoalosadmin/Statutory-Accounts-Builder/tree/glasshouse-flight4-operator-pack/flight4/operator)  
-**Runbook:** `flight4/operator/README-OPERATOR.md`
+**Input pack:** [Flight 4 operator files](https://github.com/shoalosadmin/glasshouse-flight4-operator/tree/main/operator)  
+**Runbook:** `operator/README-OPERATOR.md`
 
 ### Authority and starting state
 
@@ -29,7 +29,7 @@ Record the IDs returned by the app and verify that the header, company-year view
 
 ### Journey B | Import the operator trial balances
 
-Read `flight4/operator/README-OPERATOR.md` and use the two unchanged files under `valid/`:
+Read `operator/README-OPERATOR.md` and use the two unchanged files under `valid/`:
 
 - `GLASSHOUSE_TB_FY2024_as-of_2024-10-31.csv`
 - `GLASSHOUSE_TB_FY2025_as-of_2025-10-31.csv`
