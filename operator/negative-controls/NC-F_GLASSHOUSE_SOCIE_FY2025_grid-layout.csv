@@ -1,0 +1,6 @@
+Grid row,Row kind,Label to type,Classification to choose,Called up share capital,Share premium account,Revaluation reserve,Profit and loss account
+1,OPENING,At 1 November 2024,,120000.00,45000.00,174000.00,681608.98
+2,MOVEMENT,Profit for the financial year,PROFIT_OR_LOSS,0.00,0.00,0.00,363437.47
+3,MOVEMENT,Dividends paid,DISTRIBUTION,0.00,0.00,0.00,-75000.00
+4,MOVEMENT,Transfer of excess depreciation on revalued property,RESERVE_TRANSFER,0.00,0.00,-6000.00,6000.00
+5,CLOSING,At 31 October 2025,,120000.00,45000.00,168000.00,976046.45
